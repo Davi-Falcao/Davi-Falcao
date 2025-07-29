@@ -2,7 +2,6 @@
 
 
 <div align="center">
-
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=tokyonight&show_icons=true" />
