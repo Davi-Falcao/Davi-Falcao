@@ -5,7 +5,7 @@
 
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=tokyonight&show_icons=true" />
+    <img height="170"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=tokyonight&show_icons=true" />
   </a>
 
   <!-- Top Languages -->
@@ -18,7 +18,7 @@
  <a href="https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/" target="_blank">
   <img 
     src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    style="transform: scale(1.3); margin-top: 10px;" 
+    style="transform: scale(2.0); margin-top: 10px;" 
   />
 </a>
 
