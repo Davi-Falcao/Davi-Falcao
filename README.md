@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" style="margin-right: 50px;" src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=tokyonight&show_icons=true" />
+    <img height="150" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=tokyonight&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&theme=tokyonight&exclude_repo=parktech,parktech-prolog&layout=compact&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
