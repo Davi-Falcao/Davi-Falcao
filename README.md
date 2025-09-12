@@ -21,8 +21,8 @@ I'm a **Computer Science** student at UFCG, actively working on personal project
     <img height="180"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=tokyonight&show_icons=true" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&theme=tokyonight&exclude_repo=parktech,parktech-prolog&layout=compact&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
   </a>
----
 </div>
+
 
 ## 📱 Social 
   <a href="https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/" target="_blank">
@@ -34,7 +34,7 @@ I'm a **Computer Science** student at UFCG, actively working on personal project
   <a href="mailto:davifaf3106@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
----
+
 
 
 
