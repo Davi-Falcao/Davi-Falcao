@@ -13,6 +13,8 @@ I'm a **Computer Science** student at UFCG, actively working on personal project
 
 ## 🌱 I’m currently learning
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 ## 📊 GitHub Stats
 <div align="center">
