@@ -21,7 +21,7 @@ I'm a **Computer Science** student at UFCG, actively working on personal project
 <div align="center">
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=transparent&show_icons=true&hide_rank=true" />
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=transparent&show_icons=true&rank_icon=github" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
   </a>
 </div>
