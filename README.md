@@ -1,12 +1,15 @@
 ## Hi there, I'm Davi Falcão! 👋
+<p align="justify">
 I'm a **Computer Science** student at UFCG, actively working on personal projects and continuously developing my skills. I'm passionate about building and learning, and I'm excited to explore new challenges in the tech world.
+</p>
+
 ---
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: Pesonal projects.
 - 🌱 I’m currently: Studing Computer Science at UFCG.
-
 ---
+
 ## 🧠 Skills & Tools
 ![Your Skills](https://skillicons.dev/icons?i=java,python,git,github,linux&theme=light)
 ---
