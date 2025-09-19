@@ -38,7 +38,7 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Contact me</b>
       </samp>
   </summary>
   
@@ -59,7 +59,7 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 
    <a href="https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/" target="_blank">
       <img  
-        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&  logoColor=white"
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         style="transform: scale(2.0); margin-top: 10px;" 
       />
     </a>
