@@ -30,18 +30,43 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 </div>
 
 
-## 📱 Social 
-  <div>
-    <a href="https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/" target="_blank">
-      <img  
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      style="transform: scale(2.0); margin-top: 10px;" 
-    />
-    </a>
-    <a href="mailto:davifaf3106@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
+
+  ##
+
+  <br>
+
+  <div align="center">
+    <samp>
+      <b>
+        <h1>
+        Social:
+        </h1>
+      </b>
+      </samp>
+      <br>
+      <br>
+
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-FF91AF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/)
+    [![Gmail](https://img.shields.io/badge/Gmail-FF91AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifaf3106@gmail.com)
+  
   </div>
+
+  <br>
+
+</details>
+
+##
+
+<br>
 
 
 
