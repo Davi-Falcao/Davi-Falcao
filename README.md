@@ -8,16 +8,6 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 </p>
 </div>
 
-<br>
-<div align="center">
-
-## 🚀 About Me:
-</div>
-
-- 🔭 I’m currently working on: Pesonal projects.
-- 🌱 I’m currently: Studing Computer Science at UFCG.
-<br>
-
 <div align="center">
 
 ## 🧠 Skills & Tools
