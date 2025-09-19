@@ -37,9 +37,7 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 
 <details align="center">  
   <summary>
-      <h1>
         <b>Social:</b>
-      </h1>
   </summary>
   
   <br>
