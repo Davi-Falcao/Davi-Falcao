@@ -37,9 +37,9 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 
 <details align="center">  
   <summary>
-      <samp>
+      <h1>
         <b>Contact me</b>
-      </samp>
+      </h1>
   </summary>
   
   <br>
@@ -51,7 +51,7 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
   <div align="center">
     <samp>
         <h1><b>
-        Contact me📱:
+        Social📱:
         </b></h1>
       </samp>
       <br>
