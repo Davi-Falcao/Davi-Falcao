@@ -50,9 +50,9 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 
   <div align="center">
     <samp>
-        <b>
-        Social:
-        </b>
+        <h1><b>
+        Contact me📱:
+        </b></h1>
       </samp>
       <br>
       <br>
