@@ -29,7 +29,11 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
   </a>
 </div>
 
+<br>
 
+##
+
+<br>
 
 <details align="center">  
   <summary>
