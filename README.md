@@ -18,8 +18,8 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 <div align="center">
 
   ## 🌱 I’m currently learning
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Cloudflare](https://img.shields.io/badge/cloudflare-%23FF7A59.svg?style=for-the-badge&logo=cloudflare&logoColor=white) 
+  ![CloudFlaredTunnel](https://img.shields.io/badge/cloudflared_tunnel-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 </div>
 
 
