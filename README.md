@@ -11,14 +11,14 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 <div align="center">
 
 ## 🧠 Skills & Tools
-![Your Skills](https://skillicons.dev/icons?i=java,python,git,github,linux&theme=light)
+![Your Skills](https://skillicons.dev/icons?i=java,python,git,github,linux,docker&theme=light)
 --- 
 </div>
 
 <div align="center">
 
   ## 🌱 I’m currently learning
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
