@@ -11,7 +11,7 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 <div align="center">
 
 ## 🧠 Skills & Tools
-![Your Skills](https://skillicons.dev/icons?i=java,python,git,github,linux,docker&theme=light)
+![Your Skills](https://skillicons.dev/icons?i=java,python,git,github,linux,docker,vim&theme=light)
 --- 
 </div>
 
