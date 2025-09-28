@@ -19,7 +19,8 @@ I'm a <b>Computer Science</b> student at UFCG, actively working on personal proj
 
   ## 🌱 I’m currently learning
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Cloudflare](https://img.shields.io/badge/cloudflare-%23FF7A59.svg?style=for-the-badge&logo=cloudflare&logoColor=white) 
-  ![CloudFlaredTunnel](https://img.shields.io/badge/cloudflared_tunnel-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+  ![CloudFlaredTunnel](https://img.shields.io/badge/cloudflared_tunnel-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
 
