@@ -14,9 +14,9 @@ explore new challenges in the tech world.
 <div align="center">
 
 ## 🧠 Skills & Tools
-<a>
+  <div>
   <img src=https://skillicons.dev/icons?i=java,python,git,github,linux,docker,vim&theme=light>
-</a>
+  </div>
 </div>
 
 ---
@@ -24,7 +24,7 @@ explore new challenges in the tech world.
 <div align="center">
 
   ## 🌱 I’m currently learning
-  <a>
+  <div>
   <img src=https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white>
   <img src=https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white>
   <img src=https://img.shields.io/badge/cloudflare-%23FF7A59.svg?style=for-the-badge&logo=cloudflare&logoColor=white>
@@ -34,7 +34,7 @@ explore new challenges in the tech world.
   <img src=https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white>
   <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>
   <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white>
-  </a>
+  </div>
 </div>
 
 ---
@@ -43,10 +43,10 @@ explore new challenges in the tech world.
   
   ## 📊 GitHub Stats
   <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <div>
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=transparent&show_icons=true&rank_icon=github" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
-  </a>
+  </div>
 </div>
 
 ---
