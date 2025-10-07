@@ -56,31 +56,27 @@ explore new challenges in the tech world.
   
   ## 📱 Social:
 
-</div>
-
 <details align="center">  
   <summary><b>More info:</b></summary>
   <br>
-  <br>
-  <div align="center">
-    <b>
+  
+  <b>
       Contact me:
-    </b>
-    <br>
-    <br>
+  </b>
+  <br>
+  <br>
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifaf3106@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/)
 
-  </div>
 
   <br>
 
 </details>
-
-##
+</div>
 
 <br>
 
+---
 
 
 
