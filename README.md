@@ -4,8 +4,7 @@
 
 
 <p align="justify">
-I'm a <b>Computer Science</b> student at UFCG, actively working on personal projects and continuously developing my skills. I'm passionate about building and learning, and I'm excited to 
-explore new challenges in the tech world.
+I’m a Computer Science student at the Federal University of Campina Grande (UFCG), passionate about technology, problem-solving, and continuous learning. I enjoy developing personal projects that challenge me to apply and expand my skills, from software development to exploring new tools and technologies. Driven by curiosity and creativity, I’m always looking for opportunities to grow, collaborate, and contribute to impactful solutions in the tech world.
 </p>
 
 ---
