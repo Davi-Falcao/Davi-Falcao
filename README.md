@@ -4,7 +4,7 @@
 
 
 <p align="justify">
-I’m a Computer Science student at the Federal University of Campina Grande (UFCG), passionate about technology and continuous learning. I enjoy developing personal projects, improving my skills, and exploring new challenges in the tech world.</p>
+I’m a <b>Computer Science student at the Federal University of Campina Grande (UFCG)</b>, passionate about technology and continuous learning. I enjoy developing personal projects, improving my skills, and exploring new challenges in the tech world.</p>
 
 ---
 </div>
