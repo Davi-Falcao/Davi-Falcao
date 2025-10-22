@@ -13,7 +13,7 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 
 ## 🧠 Skills & Tools
   <div>
-  <img src=https://skillicons.dev/icons?i=java,python,git,github,linux,docker,vim&theme=light>
+  <img src=https://skillicons.dev/icons?i=java,python,git,github,linux,docker,vim>
   </div>
 </div>
 
