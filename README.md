@@ -18,7 +18,11 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 <br>
 <br>
 
+
 <div align="center">
+
+  #### Skills + Currently Learning
+
   <div>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
