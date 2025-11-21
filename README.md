@@ -19,7 +19,7 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="40" src="https://images.seeklogo.com/logo-png/56/1/fastapi-logo-png_seeklogo-568734.png" />
+    <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/fastapi.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
