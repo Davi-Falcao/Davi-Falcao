@@ -2,31 +2,34 @@
 
 ## Hi there, I'm Davi Falcão! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40"/>
 
-
 <p align="justify">
 I’m a <b>Computer Science student at the Federal University of Campina Grande (UFCG)</b>, passionate about technology and continuous learning. I enjoy developing personal projects, improving my skills, and exploring new challenges in the tech world.</p>
 
----
 </div>
+
+---
 
 <div align="center">
 
-## 🧠 Skills & Tools
-  <div style="transform: scale(0.9); transform-origin: center;">
-      <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
-      <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white>
-      <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white>
-      <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white>
-      <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white>
-      <img src=https://img.shields.io/badge/cloudflared_tunnel-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white>
-      <img src=https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33>
-      <img src=https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white>
-      <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black>
+## 📖 Knowledge + Learning
 
-      
-
-
-
+  <div >
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="40" src="https://images.seeklogo.com/logo-png/56/1/fastapi-logo-png_seeklogo-568734.png" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/proxmox.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pandas.svg" />
+    <img width="40" src="https://numpy.org/images/logo.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   </div>
 </div>
 
@@ -34,33 +37,14 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 
 <div align="center">
 
-  ## 🌱 I’m currently learning
-  <div style="transform: scale(0.9); transform-origin: center;">
-    <img src=https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi>
-    <img src=https://img.shields.io/badge/cloudflare-%23FF7A59.svg?style=for-the-badge&logo=cloudflare&logoColor=white>
-    <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)>
-    <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white>
-    <img src=https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-    <img src=https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black>
-    <img src=https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white>
-    <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>
-    <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white>
-  </div>
-</div>
+## 📊 GitHub Stats
 
----
-
-<div align="center">
-  
-  ## 📊 GitHub Stats
-  <!-- GitHub Stats -->
   <div>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=transparent&show_icons=true&rank_icon=github" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
+    <img align="center"  height="180"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=transparent&show_icons=true&rank_icon=github" />
+    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
   </div>
 </div>
 
----
 <br>
 
 <div align="center">
@@ -70,12 +54,8 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 <details align="center">  
   <summary><b>Contact me:</b></summary>
   <br>
-  <br>
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifaf3106@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/)
 
-
-  <br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifaf3106@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/)
 
 </details>
 </div>
@@ -83,7 +63,3 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 <br>
 
 ---
-
-
-
-
