@@ -10,8 +10,8 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 
 <div align="center">
   <div>
-    <img align="center"  height="180"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=transparent&show_icons=true&rank_icon=github" />
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
+    <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=transparent&show_icons=true&rank_icon=github" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
   </div>
 </div>
 
