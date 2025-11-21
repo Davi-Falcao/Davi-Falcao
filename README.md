@@ -1,37 +1,25 @@
-<div style="
-      background-color: #ddddddff;
-      border-radius: 12px;
-      padding: 12px 18px;
-      display: inline-block;
-    ">
 <div align="center">
 
 ## Hi there, I'm Davi Falcão! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40"/>
 
 <p align="justify">
 I’m a <b>Computer Science student at the Federal University of Campina Grande (UFCG)</b>, passionate about technology and continuous learning. I enjoy developing personal projects, improving my skills, and exploring new challenges in the tech world.</p>
-
 </div>
+
+<br>
+
 <div align="center">
-  <div style="
-      background-color: #c5c5c5ff;
-      border-radius: 12px;
-      padding: 12px 18px;
-      display: inline-block;
-    ">
+  <div>
     <img align="center"  height="180"  src="https://github-readme-stats.vercel.app/api?username=Davi-Falcao&theme=transparent&show_icons=true&rank_icon=github" />
     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Falcao&layout=compact&theme=transparent&exclude_repo=parktech,parktech-prolog&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook" />
   </div>
 </div>
+
+<br>
 <br>
 
 <div align="center">
-  <div style="
-      background-color: #c5c5c5ff;
-      border-radius: 12px;
-      padding: 12px 18px;
-      display: inline-block;
-    ">
+  <div>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -50,7 +38,10 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   </div>
 </div>
+
 <br>
+<br>
+
 <div align="center">
 <details align="center">  
   <summary><b>Contact me:</b></summary>
@@ -62,4 +53,3 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 </div>
 
 <br>
-
