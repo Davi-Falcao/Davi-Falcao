@@ -23,22 +23,7 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 ### Skills + Currently Learning
 
   <div>
-    <img width="40" src="https://cdn.simpleicons.org/python/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/openjdk/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/javascript/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/html5/025cda" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="40" src="https://cdn.simpleicons.org/fastapi/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/git/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/github/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/docker/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/proxmox/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/cloudflare/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/nginx/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/opencv/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/pandas/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/numpy/025cda" />
-    <img width="40" src="https://cdn.simpleicons.org/linux/025cda" />
+  <img src=https://skillicons.dev/icons?i=python,java,javascript,html,css,fastapi,git,github,docker,cloudflare,nginx,opencv,linux>
   </div>
 </div>
 
