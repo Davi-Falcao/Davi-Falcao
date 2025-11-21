@@ -13,7 +13,20 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 
 ## 🧠 Skills & Tools
   <div>
-  <img src=https://skillicons.dev/icons?i=java,python,git,github,linux,docker,vim>
+      <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
+      <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white>
+      <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white>
+      <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white>
+      <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white>
+      <img src=https://img.shields.io/badge/cloudflared_tunnel-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white>
+      <img src=https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33>
+      <img src=https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white>
+      <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black>
+
+      
+
+
+
   </div>
 </div>
 
@@ -23,9 +36,8 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 
   ## 🌱 I’m currently learning
   <div>
-  <img src=https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white>
+  <img src=https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi>
   <img src=https://img.shields.io/badge/cloudflare-%23FF7A59.svg?style=for-the-badge&logo=cloudflare&logoColor=white>
-  <img src=https://img.shields.io/badge/cloudflared_tunnel-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white>
   <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)>
   <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white>
   <img src=https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white>
@@ -33,7 +45,7 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
   <img src=https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white>
   <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>
   <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white>
-  <img src=https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi>
+
   </div>
 </div>
 
@@ -57,12 +69,7 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
   ## 📱 Social:
 
 <details align="center">  
-  <summary><b>More info:</b></summary>
-  <br>
-  
-  <b>
-      Contact me:
-  </b>
+  <summary><b>Contact me:</b></summary>
   <br>
   <br>
   
