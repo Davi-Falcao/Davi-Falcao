@@ -18,28 +18,27 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 <br>
 <br>
 
-
 <div align="center">
 
-  ### Skills + Currently Learning
+### Skills + Currently Learning
 
   <div>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="40" src="https://cdn.simpleicons.org/python/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/openjdk/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/javascript/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/html5/025cda" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/fastapi.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/proxmox.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pandas.svg" />
-    <img width="40" src="https://numpy.org/images/logo.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img width="40" src="https://cdn.simpleicons.org/fastapi/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/git/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/github/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/docker/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/proxmox/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/cloudflare/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/nginx/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/opencv/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/pandas/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/numpy/025cda" />
+    <img width="40" src="https://cdn.simpleicons.org/linux/025cda" />
   </div>
 </div>
 
@@ -51,9 +50,12 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
   <summary><b>Contact me:</b></summary>
   <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifaf3106@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/)
+[![Gmail](https://img.shields.io/badge/Gmail-025cda?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:davifaf3106@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-025cda?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/)
 
 </details>
 </div>
 
 <br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=025cda&section=footer&reversal=true"/>
