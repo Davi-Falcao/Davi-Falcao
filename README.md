@@ -23,7 +23,7 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 ### Skills + Currently Learning
 
   <div>
-  <img src=https://skillicons.dev/icons?i=python,java,javascript,html,css,fastapi,git,github,docker,cloudflare,nginx,opencv,linux>
+  <img src=https://skillicons.dev/icons?i=python,java,javascript,html,css,fastapi,git,github,docker,cloudflare,nginx,opencv,linux,mongodb>
   </div>
 </div>
 
