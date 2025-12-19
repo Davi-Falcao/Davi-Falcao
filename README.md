@@ -31,14 +31,12 @@ I’m a <b>Computer Science student at the Federal University of Campina Grande 
 <br>
 
 <div align="center">
-<details align="center">  
-  <summary><b>Contact me:</b></summary>
+  <b>Contact me:</b>
   <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-025cda?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:davifaf3106@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-025cda?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-falc%C3%A3o-989aa52a2/)
 
-</details>
 </div>
 
 <br>
